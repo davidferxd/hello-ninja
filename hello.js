@@ -1,4 +1,3 @@
 
 var ninja = "Hola Ninja!";
-console.log(ninja)
-
+console.log(ninja);
